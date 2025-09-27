@@ -1,0 +1,46 @@
+Minuta del 2025-09-24
+
+Possibili parametri di valutazione e scelta dei progetti
+- fattibilità nel breve periodo
+- costo (ad oggi va autofinanziato)
+- complessità
+- visibilità: il gruppo si è appena formato e quindi dare visibilità all'iniziativa è importante
+
+Ipotesi inizale: iniziare con un progetto semplice e poco costoso
+
+Note generali
+a) Sono ormai disponibili molti di sistemi di domotica a basso costo. Va valutato se ha senso replicare le funzionalità di tali sistemi.
+Considerare il progetto open source Home Assistant
+b) I progetti emersi possono essere di sviluppo hardware e software o semplicemente software
+
+
+Alcune idee per i progetti
+1) Gico basato su protocolli e device più o meno alternativi o alternativi
+Il gioco si può tenere all'aperto tipo in un parco
+
+2) Drone con videocamera
+I droni sono acnhe commerciali ma valutare applicazioni non convenzionali ad esempio scansioni del profilo altimetrico, monitoraggio ambientale, etc.
+
+3) Impiego di sistemi low cost più economici dei sistemi industriali ma più affidabili dei convenzionali device imoigato dai maker
+Uno dei sistemi individuito è basato su Arduino PLC. Conoscelinux acquisirà tre sistemi e li può mettere a disposizione
+Una delle idee è quella di un sistema di irrigazione automatico
+
+4) Sistema di pulizia robotizzato del giardino (rimozione foglie)
+
+5) Realizzazione di un server per una AI
+Va definita la peculiarià di tale AI
+
+6) Occhiali adatti ad eseguire trascrizioni e traduzioni
+Vista la complessità dell'hardware si può pensare a un progetto inizialmente solo software basato su device più semplici (smart phone?)
+
+7) Device da installare in casa dotato di microfono, diffusore audio, sensore di movimento e lettura dei gesti
+Questo ha il compito di interagire con l'utente e diffondere musica
+
+8) sistema di separazione dei rifiuti ed eventuale triturazione a livello casalingo o su scala condominiale
+
+9) lampada programmabile associata a carica batteria per cellulare "avanzato" (connessione magnetici tipo vecchio iPhone e simili)
+
+
+
+
+
