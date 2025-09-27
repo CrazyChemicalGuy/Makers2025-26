@@ -12,7 +12,7 @@ Note generali
 a) Sono ormai disponibili molti di sistemi di domotica a basso costo. Va valutato se ha senso replicare le funzionalità di tali sistemi.
 Considerare il progetto open source Home Assistant
 b) I progetti emersi possono essere di sviluppo hardware e software o semplicemente software
-
+c) Valutare sempre se il progetto proposto ha già equivalenti nelle diverse community di makers
 
 Alcune idee per i progetti
 1) Gico basato su protocolli e device più o meno alternativi o alternativi
@@ -36,9 +36,26 @@ Vista la complessità dell'hardware si può pensare a un progetto inizialmente s
 7) Device da installare in casa dotato di microfono, diffusore audio, sensore di movimento e lettura dei gesti
 Questo ha il compito di interagire con l'utente e diffondere musica
 
-8) sistema di separazione dei rifiuti ed eventuale triturazione a livello casalingo o su scala condominiale
+8) Sistema di separazione dei rifiuti ed eventuale triturazione a livello casalingo o su scala condominiale
 
-9) lampada programmabile associata a carica batteria per cellulare "avanzato" (connessione magnetici tipo vecchio iPhone e simili)
+9) Lampada programmabile associata a carica batteria per cellulare "avanzato" (connessione magnetici tipo vecchio iPhone e simili)
+
+10) Recupero di scarti di stampa 3D
+
+11) Sistema di riscaldamento e purificazione dell'area di stampa di una stampante 3D FDM
+
+12) Realizzare pannelli da vecchi televisori (vedi progetti già presenti in rete tipo DIY Perks)
+
+13) Magic mirror
+Specchio dotato di un sistema per testare diversi outfit
+
+14) Realizzare un master virtuale per giochi da tavolo dotato di telecamera per aiutare i giocatori in giochi complessi/nuovi
+Valutare uso di NotebookLM
+
+
+
+
+
 
 
 
