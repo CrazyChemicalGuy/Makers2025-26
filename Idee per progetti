@@ -1,8 +1,10 @@
-Minuta del 2025-09-24
+Minuta del 2025-09-24, 2025-10-01 (10 presenti)
 
 Necessità "didattiche" dei membri
 1) progettazione per stampa 3D
 2) fondamenti di progettazione meccanica in genere
+
+Ipotizzare fare corsi e reclutare
 
 Possibili parametri di valutazione e scelta dei progetti
 - fattibilità nel breve periodo
@@ -19,49 +21,94 @@ b) I progetti emersi possono essere di sviluppo hardware e software o sempliceme
 c) Valutare sempre se il progetto proposto ha già equivalenti nelle diverse community di makers
 
 Alcune idee per i progetti
-1) Gico basato su protocolli e device più o meno alternativi o alternativi
-Il gioco si può tenere all'aperto tipo in un parco
+1) Gioco basato su protocolli e device più o meno alternativi o alternativi
+Il gioco si può tenere all'aperto tipo in un parco; ad es. caccia al tesoro
+DA TENERE NELLA TORRE
 
 2) Drone con videocamera
-I droni sono acnhe commerciali ma valutare applicazioni non convenzionali ad esempio scansioni del profilo altimetrico, monitoraggio ambientale, etc.
+I droni sono acnhe commerciali ma valutare applicazioni non convenzionali ad esempio scansioni del profilo altimetrico, monitoraggio ambientale, rilevamento incendi etc.
+Attenzione a limiti normativi
+Limiti 250 g, sotto 45 m. Ci sono altre fasce di peso
+IN PAUSA
 
 3) Impiego di sistemi low cost più economici dei sistemi industriali ma più affidabili dei convenzionali device imoigato dai maker
-Uno dei sistemi individuito è basato su Arduino PLC. Conoscelinux acquisirà tre sistemi e li può mettere a disposizione
-Una delle idee è quella di un sistema di irrigazione automatico
+Uno dei sistemi individuito è basato su Arduino PLC - Finder. Conoscelinux acquisirà tre sistemi e li può mettere a disposizione
+Una delle idee è quella di un sistema di irrigazione automatico (sensore umidità, consultazione previsione meteo)
+DA TENERE NELLA TORRE
 
 4) Sistema di pulizia robotizzato del giardino (rimozione foglie)
+IN PAUSA:
 
 5) Realizzazione di un server per una AI
 Va definita la peculiarià di tale AI
+Ad esempio usare una pluralità di AI
+IN PAUSA: mancano competenze nel gruppo a parte uno
 
 6) Occhiali adatti ad eseguire trascrizioni e traduzioni
 Vista la complessità dell'hardware si può pensare a un progetto inizialmente solo software basato su device più semplici (smart phone?)
+IN PAUSA: parte elettronica complessa
 
 7) Device da installare in casa dotato di microfono, diffusore audio, sensore di movimento e lettura dei gesti
 Questo ha il compito di interagire con l'utente e diffondere musica
+DA TENERE NELLA TORRE
 
 8) Sistema di separazione dei rifiuti ed eventuale triturazione a livello casalingo o su scala condominiale
+IN PAUSA:
 
 9) Lampada programmabile associata a carica batteria per cellulare "avanzato" (connessione magnetici tipo vecchio iPhone e simili)
+Possibili immaginare qualcosa di modulare con diversi outfit 
+DA TENERE NELLA TORRE
 
 10) Recupero di scarti di stampa 3D
+IN PAUSA:
 
-11) Sistema di riscaldamento e purificazione dell'area di stampa di una stampante 3D FDM
+11) Sistema di riscaldamento, insonorizzazione e purificazione dell'area di stampa di una stampante 3D FDM o taglierina
+Immaginare qualcosa di modulare per diversi modelli
+DA TENERE NELLA TORRE
 
 12) Realizzare pannelli da vecchi televisori (vedi progetti già presenti in rete tipo DIY Perks)
+IN PAUSA: 
 
 13) Magic mirror
 Specchio dotato di un sistema per testare diversi outfit
+IN PAUSA: mancano competenze nel gruppo a parte uno
 
 14) Realizzare un master virtuale per giochi da tavolo dotato di telecamera per aiutare i giocatori in giochi complessi/nuovi
 Valutare uso di NotebookLM
+IN PAUSA: 
 
+15) Simulatore di soft air o altro gioco in cui la gente si muove in un ambiente
+Visori sono costosi
+Possibile usare telecamera + proiettori
+Software: Unreal, Unity con i loro template
+IN PAUSA:
 
+16) Supporto per pannello solare che si autopunti verso il sole (azimut, altezza)
+Possibile integrare con il progetto serra
+DA TENERE NELLA TORRE
 
+17) Attivazione di effetto temporale sulla base di una vicinanza di una persona
+Finanziato da finire entro novembre
+IN PAUSA:
 
+18) Sensore qualità dell'aria
+Riproponibili a scuole
+Sensori industriali costano
+IN PAUSA:
 
+19) Miniserra
+DA TENERE NELLA TORRE
 
+20) Braccialetti con LED da dare ai bimbi delle scuole
+LED segnalano un sorta di punteggio/gusti/esigenze
+Braccialetto che fa sorteggio random
+Attenzione agli aspetti normativi!
+DA TENERE NELLA TORRE
 
+***********************************************
+Approvato progetto per partire
 
+Lampada programmabile associata a carica batteria per cellulare "avanzato" (connessione magnetici tipo vecchio iPhone e simili)
+Possibili immaginare qualcosa di modulare con diversi outfit 
 
-
+Silvia apre un account Github di MakeitModena
