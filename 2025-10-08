@@ -1,0 +1,67 @@
+2025-10-08 Idee per la lampada
+
+Arduino comprata da Qualcomm
+
+Lampada con batteria che si ricarica con innesto magnetico
+
+Componenti principali
+Micro
+Batteria
+Micro USB C
+Neopixel circolari
+Interruttore touch capacitipo per comandi
+Pulsante per cambiare capacità operativa
+Comandi vocoli (optional)
+
+Base di alimentazione con cavo
+Base circolare circolare uguale per tutti
+Innesto universale per diversi opzini della parte superiore ad es. petali
+
+Portare in parte esterna di housing
+- porta USB
+- interruttore che serve robusto
+
+Comando vocale
+Acquisisce suono
+Inviato via rete a intelligenza esterna
+Possibile usare MQTT
+
+
+WeMOS
+Raspberry Pico: può usare PAL (pin assembly language)
+
+
+Per Wemos
+Tasmota
+Firmware con già tutto pronto
+
+TinkerCAD può simulare comportamento
+
+*****************************
+Prossima settimana
+Test con componentistica di Valentino
+
+*****************************
+Lista della spesa
+
+Board con micro
+Adattatore microUSB>>>USB C
+Interruttore on/off esterno tondo
+Interruttore capacitivo
+Neopixel circolare
+Batteria
+
+Stampa 3D: PLA per prototipo, PETG per pezzo
+Base cilindrica diametro 11 cm, h 3 cm
+Spessore parete: 2 mm
+Incastro della parte superiore fatto con 
+- una +
+- perno tipo Ikea a vite
+
+In punto con interruttore touch: serve minore spessore di stampa
+
+Software 
+Arduino + https://github.com/toblum/McLighting
+
+
+
