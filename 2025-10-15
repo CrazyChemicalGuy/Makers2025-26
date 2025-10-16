@@ -1,0 +1,84 @@
+2025-10-15
+
+USB C (5V) >>> alimentatore >>> Batteria
+alimentatore >>> Wemos (3.7 V)
+
+Neopixel LED WCMCU-2812B-16
+Massimo 3.84 W
+
+Alimentatore adatto a batterie al litio
+TP4056A
+1 A , 5 V = ca. 5 W
+
+Batteria al litio
+18650
+3.7 V
+Da 1500 mAh a oltre 3500 mAh
+
+3.5 Ah x 3.7 V = 13 Wh
+13 Wh / 3.4 W = ca. 3.8 h
+
+Wemos d1 mini versione 4
+E' già con connettore USB C
+
+ESP32 con controller di batteria integrato
+
+
+Wemos d1 mini pinout
+5V pin: When connected via USB, this pin outputs a 5V supply drawn directly from the USB port. It can also be used to power the board when using an external power source.
+Programmare la scheda con batteria staccata
+Prevedere un interruttore fisico per disalimentare la scheda
+
+https://salvatorelab.com/2023/01/wemos-d1-mini-deep-sleep-current-draw/
+When active and connected to WiFi to send some data over HTTP the consumption goes up to 77.88mA on average, with spikes of 182mA. See bottom right numbers on the screenshot.
+During deep sleep the current is 9.05mA. Bottom right of the screenshot.
+
+Pulsanti
+- tre pulsanti, +, -, ON/OFF
+La scelta di modalità la si fa con combinazione di tasti
+ON/OFF: OFF è modalità standby
+Alternativa touch slider anche flessibile; attenzione alle dimensioni ed ai costi
+Alternativa 2: sensore flessibile capacitivo di livello; bisogna toccarlo se resistivo
+
+Cambia modalità: premendo due pulsanti
+
+- interruttore fisico
+Posizionato su + di uscita di trasformatore
+
+Uso pin di Wemos
+3 pin per pulsanti
+1 pin digitale per LED
+
+Attivazione di pulsanti lo si fa su rilascio o tempo per cui è premuto
+
+Attenzione a rebouncing di interruttore; va inserito un filtro
+
+Retroilluminazione di tasti usando LED su Wemos
+
+*****************************
+Progettazione CAD
+Si procede con TinkerCAD
+
+Attenzione a come esportare i file in un formato facimente modificale e universale come STEP
+STL non sembra prestarsi a tale scopo
+
+*****************************
+Note di PLC
+Possibili software per programmare PLC free sulla base dei cinque (meglio quattro) linguaggi di norma IEC61131-3 (sono loo standard)
+- opeonplc (Autonomy) 
+Da non confondere con PLCopn
+- codesys
+
+Approfondisre il tema SoftPLC
+
+Valutare uso di sistmi operativi real time free tipo Linux o RTOS
+
+
+
+
+
+
+
+
+
+
