@@ -72,6 +72,11 @@ Da non confondere con PLCopn
 Approfondisre il tema SoftPLC
 
 Valutare uso di sistmi operativi real time free tipo Linux o RTOS
+E' disponibile una "versione" di Python real time
+
+Gestione delle latenze sulle reti: valutare Ethercat
+Quale network topologies (line, tree, ring, star)?
+
 
 
 
