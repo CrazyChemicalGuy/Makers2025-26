@@ -1,0 +1,36 @@
+2025-10-22
+
+Gruppo Github
+Makers-MakeitModena
+
+Assemblato su breadboard i componenti base della lampada
+Scritto il primo codice di controllo
+
+Attenzione: se il caricamento di sketch non va buon fine
+a) cambiare pin nel codice di periferiche
+b) scollega le periferiche
+Il microcontrollore può essere impegnato a fare altro e non caricvatre il codice
+
+Meglio non usare pin D3 
+
+Importante funzione one shot per azionamento ON/OFF del pulsante
+
+Delay: ferma la scheda per un certo tempo; meglio funzione timer-on/off
+
+********************
+NanoPI
+Softwre defined hardware (posssibile solo su alcune schede ad es RP2040)
+Pinout definibile per avere diverse porte di input/ouput
+Ad es: https://vanhunteradams.com/Pico/VGA/VGA.html
+
+
+********************
+TinkerCAD: possibile esportare in Fusion360 in formato "vettoriale" e non STL
+********************
+
+
+
+
+
+
+
