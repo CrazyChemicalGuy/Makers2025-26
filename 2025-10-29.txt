@@ -1,0 +1,61 @@
+2025-10-29
+
+Tentativo di usare codice generato da Claude
+
+Neopixel
+Codifica colori con RGB puro (8,8,8 bit)
+Neopixel utilizza la sequenza GRB ed una certa frequanza di comunicazione
+Ma in Neopixel sembra che non sia così: verificare numero di bit per colore
+
+Per pressione di tasto: valutare fronte discesa/salita
+
+Importante operazione modulo resto
+int i = animationstep % NUM_LEDS >>>> i cicla fra 0 e NUM_LEDS mentre animationstep continua a crescere
+Se voglio ciclare da un certo valore di offset a il valore+NUM_LEDS  >>> int i = animationstep % NUM_LEDS + offset
+
+Switch...case
+Utile comando break
+
+#define DUBUG = 1
+
+if debug =1 ... print info di debug
+if debug = 0 ... il codice è debuggato quibdi elimino le parti inutuli del codide
+
+Codice
+Dividere in un main molto pulito e in una o più librerie in file separati .h
+#include "myfunctions.h"
+Buona pratica: nelle funzioni prevedere variabili di input ed output
+Questo rende la funzione riutilizzabile
+
+Data una funzione che ha come output più di una variabile >>> usare puntatore, reference, structure
+Vedi esempio
+
+*i++ >>> modifico la posizione di memoria
+(*i)++ >>> aumento di 1 il vaolore contenuto *i
+
+
+*******************************
+
+Audio su Arduino
+Una possibile soluzione è DF player anche con casse attive
+
+Kubus
+Revolutionp
+PLC basato su Raspberry con diverse posibilità di programmazione real time compreseo Python
+
+Claude per programmare
+Timer on
+Usare una classe per prevedere più di un timer on
+
+Delay su sensori
+Per evitare falsi contatti su sensori
+I falsi contatti lo si vede su PLC con tempi di risposta di 200 um
+Falsi contatti visibili se PLC ha risposte di 20 ms
+
+Raspberry
+Possibile mettere immagine Codesys
+
+Domotica
+Nodered
+Programmazione tipo scratch
+
